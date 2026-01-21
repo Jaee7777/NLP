@@ -1,0 +1,8 @@
+junk/
+data/
+model/
+logs/
+*.tmp
+*.log
+*.bak
+.DS_Store
