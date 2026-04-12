@@ -1,0 +1,96 @@
+{
+  "2": {
+    "label": "Financial strain and resource access",
+    "size": 35,
+    "concerns": [
+      "Cannot afford meat and has switched to cheaper proteins",
+      "Medication costs force a tradeoff with food budget",
+      "Struggling with electricity bills",
+      "Child care challenge in the summer",
+      "Summer rec program fills up fast",
+      "Transportation issue for summer programming",
+      "Finding reasonably priced child care near my workplace is challenging",
+      "I was on waiting lists for childcare since finding out I was pregnant and only got one two weeks before returning to work",
+      "Childcare hours limit my work schedule, making it hard to meet eight-hour workday requirements",
+      "Pickup times for mode of care are often delayed by over an hour.",
+      "Members spend up to two hours waiting in vehicles due to late pickups.",
+      "We can't afford health insurance.",
+      "Legal assistance for immigration issues is difficult to obtain due to financial constraints.",
+      "Working long hours without proper compensation or recognition.",
+      "Difficulty in accessing affordable housing and clean living conditions.",
+      "Lack of financial resources limits ability to participate in activities",
+      "Funding issues limit opportunities for siblings and other students after graduation.",
+      "Priorities in funding favor football and basketball over successful track and girls' sports teams.",
+      "I'm still charged for a meal plan despite not being in one due to medical issues.",
+      "So it's like having that inaccessibility to understanding finances overall",
+      "I feel like I'm a burden when calling for help or using resources",
+      "Mental health care is stigmatized and access to timely appointments is limited",
+      "Financial aid communication is poor and unresponsive.",
+      "Struggling with the double standard of being treated as both too young and expected to be independent.",
+      "Lack of financial resources and preparation before college.",
+      "Feeling overwhelmed by the lack of mental health support and high demand for clinical therapists.",
+      "I don't know if it's outrageous that they refuse help because they can make more or even the same amount as someone who is just straight up working, except they can do whatever they want, whenever they want",
+      "One of my biggest bills paying bills is one of the problems too.",
+      "I couldn't get an available walk-in appointment for my ear infection.",
+      "Had to use Uber to go to another clinic, incurring additional transportation cost.",
+      "Spent $400 on the medical inspection and had to pay for medication.",
+      "There's no help for living in poverty.",
+      "Facing choices between different services that could benefit young people, but only one is allowed.",
+      "Frustrated by limited driving hours for young people involved with the system.",
+      "Banks do not allow under-18 individuals to open bank accounts without an adult signature despite new legislation."
+    ]
+  },
+  "1": {
+    "label": "Transportation and employment barriers",
+    "size": 13,
+    "concerns": [
+      "Public transportation is inadequate and not close to many places",
+      "Finding transportation to get to jobs on time is difficult, impacting employment opportunities.",
+      "Finding a job that one enjoys or is interested in is difficult",
+      "Transportation is inefficient, taking over an hour by bus compared to under 15 minutes by car.",
+      "Transportation is unreliable, making it difficult to access off-campus job opportunities and internships.",
+      "The paperwork and accommodations process is frustrating and inefficient",
+      "Reliable transportation services are lacking, making daily living difficult",
+      "There is a lack of consistent enforcement of rules and policies",
+      "I feel like I do not have enough knowledge from the degree that I am gaining to be able to just walk up and do an interview and be like, I can do this, this, this and this for you, and be confident in doing that",
+      "Even a lot of the jobs now are, like, you need to have this, this, this and this requirement. And you're like, Well, you just weeded out almost everybody",
+      "I'm not going to be so lucky in the future trying to get my foot in the door for my actual career",
+      "There's some roads that are really bad, and you're like, even the road leading into here, driving on that road, rocks on the side",
+      "I would love to be able to have an actual it internship. The work study is can't get into the work study. There's like, there's no available spaces"
+    ]
+  },
+  "3": {
+    "label": "Affordable Housing and Economic Strain",
+    "size": 8,
+    "concerns": [
+      "Housing is expensive",
+      "Rent in the housing market is prohibitively high, making it difficult to save for homeownership",
+      "Small businesses struggle due to high rent, leading to closures year-round",
+      "The rent is unaffordable in Southern Maine.",
+      "Property taxes almost doubled last year, which is a significant financial burden.",
+      "Living on campus provides less independence as I cannot choose what I eat or when disruptions occur, while living off-campus is more expensive but offers more freedom.",
+      "The newer developments look the same and feel dystopian compared to older buildings with unique architecture",
+      "I wish we could do something about old mill buildings not just tearing them down because I know the mill built one of the mill buildings in Sanford was his apartments, their apartments, they look nice"
+    ]
+  },
+  "0": {
+    "label": "Social isolation and fear",
+    "size": 5,
+    "concerns": [
+      "I haven't gotten involved in community activities since my husband passed away.",
+      "I live on a private road where I don't know most of my neighbors.",
+      "Since retiring at 80 and during the pandemic, I only recently started to meet my neighbors.",
+      "There is a lot of fear in immigrant communities leading to isolation",
+      "I fear for the safety of my family and the community due to aggressive maneuvers in Red Bank."
+    ]
+  },
+  "4": {
+    "label": "Financial strain and housing affordability",
+    "size": 3,
+    "concerns": [
+      "I worry about being able to afford rent next semester, groceries, a new car, gas, loans, and medical expenses no matter how many hours I work.",
+      "Trying to find a job that would pay enough for me to afford a house.",
+      "I'm still gonna have to live at my parents house for like, another couple of years."
+    ]
+  }
+}

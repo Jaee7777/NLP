@@ -1,0 +1,30 @@
+{
+  "1": {
+    "label": "Economic challenges for youth",
+    "size": 10,
+    "concerns": [
+      "Families working fast food jobs or entry level jobs where they may be making 16 $17 an hour, how do you afford to live?",
+      "There's always that conversation that happens, where does one parent stay home to watch the kids who can't afford childcare?",
+      "It's pretty hard to find a job",
+      "I feel like it should be more normalized for kids our age to be working",
+      "It was hard until I got my license, then it was a lot easier.",
+      "Change in the foster care system is slow and frustrating",
+      "Bureaucracy makes it difficult to get support for youth in foster care",
+      "Risk of losing job or facing financial issues due to strict policies",
+      "Difficulty in arranging required driving hours for a driver's license",
+      "Challenges in promoting mutual aid and healthy mental well-being among young people in foster care"
+    ]
+  },
+  "0": {
+    "label": "Increasing living expenses",
+    "size": 6,
+    "concerns": [
+      "Affordable Housing. There's been such a need for housing.",
+      "The average rent for three bedroom is $1,800 a month.",
+      "Taxes have gone up a lot in the last five years.",
+      "Things like if you want to go on a trip, it's so much more expensive",
+      "Going out with friends has become less affordable",
+      "Cool activities can be a little expensive"
+    ]
+  }
+}

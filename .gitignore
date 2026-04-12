@@ -9,3 +9,5 @@ logs/
 class/
 .vscode/
 .env
+*.csv
+*.npy
