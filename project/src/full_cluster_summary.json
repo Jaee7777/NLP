@@ -1,0 +1,118 @@
+{
+  "6": {
+    "label": "Affordable Housing Crisis Impact",
+    "size": 17,
+    "concerns": [
+      "Rent in the housing market is extremely high, making it difficult to save for homeownership.",
+      "Small businesses struggle to stay open year-round due to high rent costs.",
+      "Rent is extremely high given local wages",
+      "Struggle to find affordable housing in Portland",
+      "Lack of low-cost third spaces for social interaction and support",
+      "Living in poor quality, unhealthy and overpriced housing",
+      "Affordable Housing. There's been such a need for housing.",
+      "The average rent for three bedroom is $1,800 a month.",
+      "Expenses for going out with friends have become less affordable.",
+      "Activities that don't cost a ton of money are needed.",
+      "Prom tickets are costly for those who cannot afford them",
+      "I cannot afford the $100 annual membership for the Spalding Center.",
+      "Living off campus is more expensive due to the need for transportation and additional living costs.",
+      "The new housing development near my street has houses going for 500,000 which is insane",
+      "A two bedroom in Sanford is like 1800 a month and I'm like we're not in a place where people can pay that much for an apartment",
+      "The housing market is expensive, making it difficult for someone with a lifeguard job to afford the cost of getting certified and maintaining higher pay.",
+      "Things are pretty expensive for first home buyers, especially getting their loans and stuff."
+    ]
+  },
+  "1": {
+    "label": "Transportation Inefficiency and Accessibility Issues",
+    "size": 16,
+    "concerns": [
+      "Public transportation is not close to anything, which limits mobility and access to services.",
+      "Inaccessible public transportation, especially during winter",
+      "Transportation is inefficient, taking over an hour by bus compared to under 15 minutes by car.",
+      "There is a lack of awareness about available services due to poor communication.",
+      "Transportation issues make it difficult to access necessary appointments and activities.",
+      "Transportation is unreliable, making it difficult to access off-campus job opportunities and internships.",
+      "The paperwork and accommodations process is frustrating and inefficient",
+      "Reliable transportation services are lacking, making daily living difficult",
+      "There is a lack of consistent enforcement of rules and policies",
+      "Difficulty advocating for changes in security and facilities management.",
+      "It's hard to reach other people due to poorly paved sidewalks in winter.",
+      "There are limited transportation options, especially during winter when biking is not feasible.",
+      "Signage on roads can be unclear or hard to see, leading to confusion about speed limits.",
+      "Had to use Uber to go to another clinic, incurring additional transportation cost.",
+      "Inefficient accessibility in infrastructure, such as ramps that are not suitable for wheelchair users",
+      "Desires true engagement and authentic partnership in service provision rather than superficial compliance."
+    ]
+  },
+  "3": {
+    "label": "Fear and Safety Concerns",
+    "size": 11,
+    "concerns": [
+      "Sometimes not going to school due to fear of being taken away by authorities",
+      "Stress from daily monitoring of news regarding community acceptance and policies",
+      "Facing trauma and fear related to past experiences and current political climate",
+      "There is a lot of fear in immigrant communities leading to isolation",
+      "I fear for the safety of my family and the community due to aggressive maneuvers in Red Bank.",
+      "Safety concerns going out at night as a young girl",
+      "Pepper spray confiscated by authorities despite feeling it makes me feel safe",
+      "Difficulty in finding the courage to speak up for oneself and bring sensitive topics to light",
+      "I feel like I'm a burden when calling for help or using resources",
+      "Feeling stressed out by procrastination which affects academic performance.",
+      "Struggle with motivation due to difficult times and everyday life challenges"
+    ]
+  },
+  "5": {
+    "label": "Financial Barriers to Youth Opportunities",
+    "size": 10,
+    "concerns": [
+      "I don't see how the young person could afford it.",
+      "Lack of financial resources limits ability to participate in activities",
+      "Funding issues limit opportunities for siblings and other students after graduation.",
+      "Priorities in funding favor football and basketball over successful track and girls' sports teams.",
+      "Boys sports receive significantly more funding than girls sports, leading to disparities in equipment and opportunities",
+      "Lack of community-oriented activities or free opportunities for younger individuals during the summer",
+      "Lack of financial resources and preparation before college.",
+      "Being the first in my family to go to college, I had to teach myself about loans and applications at 18 without family support.",
+      "Banks do not allow under-18 individuals to open accounts without adult signatures despite new legislation.",
+      "Financial barriers prevent young people from buying cars or getting necessary hours, hindering their success."
+    ]
+  },
+  "4": {
+    "label": "Increasing financial strain on residents",
+    "size": 7,
+    "concerns": [
+      "Concern about teacher wages being unsustainable",
+      "Taxes are becoming difficult for people trying to stay in their own homes.",
+      "Property taxes almost doubled last year, making it difficult to manage expenses for the rest of my life.",
+      "Taxes have gone up a lot in the last five years.",
+      "I worry about being able to afford rent next semester, groceries, and other expenses despite working extra shifts.",
+      "I just hope I won't be homeless after getting out of school",
+      "I'm still gonna have to live at my parents house for like, another couple of years."
+    ]
+  },
+  "2": {
+    "label": "Mental Health Access and Support Barriers",
+    "size": 7,
+    "concerns": [
+      "Mental health care is stigmatized and access to timely appointments is limited",
+      "Struggling with the double standard of being treated as both too young and expected to be independent.",
+      "A mentally disabled person living nearby is not being adequately cared for by their sibling.",
+      "Homeless individuals often seek help at inappropriate medical facilities, causing stress for healthcare workers who try to assist them.",
+      "Lack of parental support for mental health, leading to unmet needs during adolescence",
+      "Difficulty accessing mental health resources due to financial barriers and insurance limitations",
+      "Feeling powerless over necessary mental health care decisions as a minor"
+    ]
+  },
+  "0": {
+    "label": "Job market barriers and lack of opportunities",
+    "size": 6,
+    "concerns": [
+      "It's pretty hard to find a job",
+      "Finding a job that one enjoys or is interested in is difficult",
+      "I feel like I do not have enough knowledge from the degree that I am gaining to be able to just walk up and do an interview and be like, I can do this, this, this and this for you, and be confident in doing that",
+      "The jobs now are requiring specific requirements which weeds out almost everybody including me",
+      "I'm not going to be so lucky in the future when trying to get my foot in the door for my actual career",
+      "It's even like trying to get your foot in the door for your actual career, and they're not willing to give people a chance to actually learn what they're talking about"
+    ]
+  }
+}
